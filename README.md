@@ -73,7 +73,7 @@ export default App;
 
 ## Authors
 
-- [@curpracode](https://www.github.com/curpracode)
+- [@curtizdev](https://www.github.com/curtizdev)
 
 ## Badges
 
